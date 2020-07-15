@@ -2,7 +2,3 @@
 
 * [BPSUtils Documentation](README.md)
 
-## Logging
-
-* [Untitled](logging/untitled.md)
-
